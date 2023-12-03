@@ -1,0 +1,2 @@
+in normal queue, once the queue rear reaches rear(n-1), we say the queue is full but in case of circular queue,
+ after rear reaches the end, the queue goes back to the first index. 

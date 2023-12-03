@@ -1,0 +1,11 @@
+queue <> q; 
+stl
+push, poop, empty, size, front, back
+can be implemented using array and LL
+
+for queue ysing array, 
+front == rear when arr is mempty
+>> if push op done on arr, arr[rear]= element, rear++
+
+>> if pop op, arr[front]==-1 ,front++
+
