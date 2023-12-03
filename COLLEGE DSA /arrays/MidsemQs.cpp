@@ -1,0 +1,1 @@
+// A[N,N] A[i,j] = I-J  for all i,j <=N, calc the sum of all el of the arra
